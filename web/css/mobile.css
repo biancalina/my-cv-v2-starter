@@ -20,9 +20,9 @@ grid > c[span="row"] {
   grid-column: 1 / -1;
 }
 
-grid > c {
-  /* overflow: hidden; */
-}
+/* grid > c {
+  overflow: hidden;
+} */
 
 .first-title,
 .second-title {
