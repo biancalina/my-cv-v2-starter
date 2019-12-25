@@ -298,7 +298,7 @@ a[class^="social-icon__"] > [class^="my-cv-"]::before {
   transform: rotateZ(180deg);
 }
 .my-cv-codetap .path1:before {
-  color: #d52027;
+  color: #da2026;
 }
 .my-cv-codetap .path1:before,
 .my-cv-codetap .path2:before,
